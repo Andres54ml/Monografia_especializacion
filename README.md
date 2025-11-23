@@ -1,8 +1,8 @@
 # Monografia_especializacion
 
-📘 Predicción del Precio de la Acción de NVIDIA usando RNN, LSTM, GRU y Análisis de Sentimiento
+📘 Predicción del Precio de la Acción del Grupo Bancolombia usando RNN, LSTM, GRU y Análisis de Sentimiento
 
-Este repositorio contiene un proyecto de predicción del precio de cierre de la acción de NVIDIA (NVDA) utilizando diferentes arquitecturas de redes neuronales recurrentes (RNN): RNN Simple, GRU, LSTM, y versiones de estos modelos que incorporan una variable de sentimiento generada a partir del análisis de noticias.
+Este repositorio contiene un proyecto de predicción del precio de apertura de la acción de Bancolombia en la bolsa de New York (CIB) utilizando diferentes arquitecturas de redes neuronales recurrentes (RNN): RNN Simple, GRU, LSTM, y versiones de estos modelos que incorporan una variable de sentimiento generada a partir del análisis de noticias.
 
 El enfoque es multivariante, integrando variables económicas y una variable binaria que representa el sentimiento (1 = positivo, 0 = negativo).
 
