@@ -56,8 +56,6 @@ GRU + sentimiento
 
 LSTM + sentimiento
 
-La variable utilizada es binaria:
-sentimiento ∈ {0, 1}
 
 🛠 Metodología
 
@@ -75,97 +73,6 @@ Métricas: MAE y RMSE
 
 Gráficas comparativas entre real vs. predicho
 
-📊 Métricas
-MAE — Mean Absolute Error
-𝑀
-𝐴
-𝐸
-=
-1
-𝑁
-∑
-𝑖
-=
-1
-𝑁
-∣
-𝑦
-^
-𝑖
-−
-𝑦
-𝑖
-∣
-MAE=
-N
-1
-	​
-
-i=1
-∑
-N
-	​
-
-∣
-y
-^
-	​
-
-i
-	​
-
-−y
-i
-	​
-
-∣
-RMSE — Root Mean Squared Error
-𝑅
-𝑀
-𝑆
-𝐸
-=
-1
-𝑁
-∑
-𝑖
-=
-1
-𝑁
-(
-𝑦
-^
-𝑖
-−
-𝑦
-𝑖
-)
-2
-RMSE=
-N
-1
-	​
-
-i=1
-∑
-N
-	​
-
-(
-y
-^
-	​
-
-i
-	​
-
-−y
-i
-	​
-
-)
-2
-	​
 
 📈 Visualizaciones Generadas
 
